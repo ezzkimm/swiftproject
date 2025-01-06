@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C63E8F602D2C394800E483CA /* scheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C63E8F5F2D2C394800E483CA /* scheduleView.swift */; };
 		DE1E23EE2D2C2D0D00D4D39F /* sijosaeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1E23ED2D2C2D0D00D4D39F /* sijosaeApp.swift */; };
 		DE1E23F02D2C2D0D00D4D39F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE1E23EF2D2C2D0D00D4D39F /* ContentView.swift */; };
 		DE1E23F22D2C2D0E00D4D39F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE1E23F12D2C2D0E00D4D39F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C63E8F5F2D2C394800E483CA /* scheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scheduleView.swift; sourceTree = "<group>"; };
 		DE1E23EA2D2C2D0D00D4D39F /* sijosae.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = sijosae.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE1E23ED2D2C2D0D00D4D39F /* sijosaeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sijosaeApp.swift; sourceTree = "<group>"; };
 		DE1E23EF2D2C2D0D00D4D39F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				DE1E23ED2D2C2D0D00D4D39F /* sijosaeApp.swift */,
 				DE1E23EF2D2C2D0D00D4D39F /* ContentView.swift */,
 				DEE918042D2C33DB008EB342 /* weeklyView.swift */,
+				C63E8F5F2D2C394800E483CA /* scheduleView.swift */,
 				DEE918062D2C33EB008EB342 /* monthlyView.swift */,
 				DE1E23F12D2C2D0E00D4D39F /* Assets.xcassets */,
 				DE1E23F32D2C2D0E00D4D39F /* Preview Content */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C63E8F602D2C394800E483CA /* scheduleView.swift in Sources */,
 				DEE918052D2C33DB008EB342 /* weeklyView.swift in Sources */,
 				DE1E23F02D2C2D0D00D4D39F /* ContentView.swift in Sources */,
 				DEE918072D2C33EB008EB342 /* monthlyView.swift in Sources */,
